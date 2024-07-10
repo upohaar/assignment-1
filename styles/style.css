@@ -1,0 +1,142 @@
+/*style head*/
+.head{
+   
+    background-image: url(../styles/assets/Hero-bg.png);
+    height: 652px;
+    left: 0;
+    right: 0;
+    top: 131px;
+    bottom: 4462px;
+
+
+}
+.first-img{
+    display: flex;
+    justify-content: center; 
+    margin: auto;
+    width: 240.28px;
+    height: 240px;
+    left: 257.67%;
+    right: -257.67%;
+    top: 0%;
+    bottom: 0%;
+    
+}
+.title{
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    text-align: center;
+   
+    
+}
+.title-text{
+    text-align: center;
+    color: rgb(68, 68, 70);
+    margin:30px;
+    font-size: medium;
+}
+.btn{
+   /* Frame 2 */
+color: aliceblue;
+font-size: medium;
+width: 208px;
+height: 66px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 21px 24px 21px 24px;
+margin:auto;
+border-radius: 8px;
+background: rgb(13, 19, 33);
+
+    
+}
+/*style main*/
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 0px;
+    order: 0;
+    margin: 32px 0px;
+    
+}
+.container{
+    margin: 50px 40px;
+    padding: 50px;
+}
+.text{
+    text-align: start;
+    color: rgb(68, 68, 70);
+    
+}
+.text-btn{
+    padding: 8px 18px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+}
+.video{
+width: 1140px;
+height: 614px;
+display: flex;
+justify-content:center;
+align-items: center;
+padding: 32px;
+margin: 48px 48px 20px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+
+}
+
+.element{
+    display: flex;
+    justify-items:auto;
+    justify-content:center ;
+    margin: 48px, 0;
+}
+.element-style{
+ padding: 40px;
+    
+}
+.pink{
+    width: 1140px;
+    height: 300px;
+    border-radius: 16px;
+
+    background: rgba(255, 76, 30, 0.05);
+    margin: 48px 20px 20px 0px ;
+    
+    
+}
+.blue{
+    width: 1140px;
+    height: 300px;
+    border-radius: 16px;
+
+    background: rgba(0, 76, 232, 0.05);
+    margin: 48px 20px 20px 0px ;
+    
+    
+}
+.white{
+    width: 1140px;
+    height: 300px;
+    border-radius: 16px;
+
+    background: rgba(255, 223, 0, 0.05);
+    margin: 48px 20px 20px 0px ;
+    
+}
+.background{
+    background-image: url(../styles/assets/handshake.jpg);
+    background-size: cover;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    justify-items: ;
+    padding:5px ;
+}
