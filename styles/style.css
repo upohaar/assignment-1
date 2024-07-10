@@ -133,10 +133,11 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 .background{
     background-image: url(../styles/assets/handshake.jpg);
     background-size: cover;
+    
 }
 .form{
     display: flex;
     justify-content: center;
-    justify-items: ;
+  
     padding:5px ;
 }
