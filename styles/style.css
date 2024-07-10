@@ -139,9 +139,12 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 }
 .form{
     display: flex;
-    justify-content: center;
-    padding:5px ;
-    margin-bottom: 20px ;
+    justify-content:center;
+    justify-items: center;
+    padding:20px ;
+    margin-bottom: 50px ;
+    
+    
   
 }
 .cover-title{
