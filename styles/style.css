@@ -39,7 +39,7 @@
     font-size: medium;
 }
 .btn{
-   /* Frame 2 */
+ 
 color: aliceblue;
 font-size: medium;
 width: 208px;
@@ -141,6 +141,7 @@ border: 1px solid rgba(13, 19, 33, 0.2);
     display: flex;
     justify-content: center;
     padding:5px ;
+    margin-bottom: 20px ;
   
 }
 .cover-title{
@@ -152,9 +153,29 @@ border: 1px solid rgba(13, 19, 33, 0.2);
     text-align: center;
 }
 .commit{
+ 
     display: flex;
     justify-content: space-around;
 }
 .icon{
     margin-top: 20px;
+}
+.btn-learn{
+ border: none;
+ background-color: transparent;
+ text-decoration: underline;
+}
+
+.btn-contact{
+    color: aliceblue;
+    font-size:large;
+    width: 150px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 21px 24px 21px 24px;
+    margin:auto;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
 }
